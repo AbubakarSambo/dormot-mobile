@@ -1,0 +1,6 @@
+module Pods_DormotApp_DormotAppTests {
+  umbrella header "Pods-DormotApp-DormotAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
